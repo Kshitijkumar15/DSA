@@ -1,4 +1,4 @@
-package com.kunal;
+
 // https://leetcode.com/problems/missing-number/
 // Amazon Question
 class MissingNumber {
