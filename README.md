@@ -10,11 +10,12 @@ Welcome to the Data Structures and Algorithms (DSA) repository! This repository 
 2. Data Structures
 3. Algorithms
 
+$~~~~$
 
 ## Introduction
 
 Data Structures and Algorithms are fundamental concepts in computer science and programming. Understanding them is crucial for solving complex problems efficiently. This repository aims to provide implementations and explanations of various data structures and algorithms to help you learn and apply these concepts.
-
+$~~~~$
 ## Data Structures
 
 Here, you can find implementations of common data structures like:
@@ -27,7 +28,7 @@ Here, you can find implementations of common data structures like:
 - Graph
 
 Each data structure folder includes implementation details, sample code, and explanations.
-
+$~~~~$
 ## Algorithms
 
 We also provide implementations of algorithms such as:
